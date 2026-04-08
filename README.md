@@ -22,17 +22,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=emeral23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXByeHh4ZzR4ZWZ4eHh4ZzR4ZWZ4eHh4ZzR4ZWZ4eHh4ZzR4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVtoGMMfxvgtfG/giphy.gif" width="30px"> About Me
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=emeral23&label=Profile%20views&color=0e75b6&style=flat" alt="emeral23" />
-</p>
-
-### <font color="#2ecc71">I am a determined Informatics Engineering student</font> 
-Currently focusing my professional and skill development journey on **Data Analytics** and **Machine Learning**. While I have a strong foundation in full-stack development, my true passion lies in extracting insights and building predictive models from complex datasets.
-
----
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
