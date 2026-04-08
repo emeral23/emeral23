@@ -1,5 +1,9 @@
 # 💫 About Me:
-About Me<br>I am a determined Informatics Engineering student, currently focusing my professional and skill development journey on Data Analytics and Machine Learning. While I have a strong foundation in full-stack development, my true passion lies in extracting insights and building predictive models from complex datasets.<br><br>My technical background includes:<br><br>🏆 Working On: Advanced data processing projects. Recently, I developed a comprehensive interactive dashboard using Microsoft Excel (with advanced Pivot Tables and Slicers) to analyze sales data, applying business intelligence principles.<br><br>🤝 Looking to Collaborate On: Open-source projects focused on Data Management, exploratory data analysis (EDA), and machine learning implementations in real-world scenarios.<br><br>💡 Currently Learning: In-depth knowledge of Python for Data Science, focusing on libraries like NumPy, Pandas, Scikit-learn, and exploring modern Machine Learning frameworks.<br><br>❓ Ask Me About:<br><br>Data Analysis: From data cleaning to generating actionable business insights.<br><br>Software Development: My experiences building desktop applications with Java Swing and web applications with Laravel (PHP).<br><br>Networking & Security: Basic principles of network design (OSPF, VLAN, HSRP) and initial experience in cybersecurity.<br><br>⚡ Fun Fact: Beyond my screen, I have a strong passion for leadership and logistics. I have successfully coordinated a major event with over 400 attendees! I'm now channeling that same structured, meticulous energy into my work with data.
+* 🏆 **<font color="#f1c40f">Working On:</font>** Advanced data processing projects. Recently developed an interactive dashboard using **Microsoft Excel** (Pivot Tables & Slicers).
+* 🤝 **<font color="#e67e22">Looking to Collaborate On:</font>** Open-source projects in **Data Management** and exploratory data analysis (EDA).
+* 🌱 **<font color="#2ecc71">Currently Learning:</font>** **Python for Data Science** (NumPy, Pandas, Scikit-learn) and Machine Learning frameworks.
+* 💬 **<font color="#3498db">Ask Me About:</font>** Data Analysis, Laravel, Java Swing, and Networking (OSPF/VLAN).
+* ⚡ **<font color="#9b59b6">Fun Fact:</font>** I’ve coordinated campus events for over 300+ students!
 
 
 ## 🌐 Socials:
@@ -29,20 +33,6 @@ Currently focusing my professional and skill development journey on **Data Analy
 
 ---
 
-### 🛠 Technical Background & Focus:
 
-* 🏆 **<font color="#f1c40f">Working On:</font>** Advanced data processing projects. Recently developed an interactive dashboard using **Microsoft Excel** (Pivot Tables & Slicers).
-* 🤝 **<font color="#e67e22">Looking to Collaborate On:</font>** Open-source projects in **Data Management** and exploratory data analysis (EDA).
-* 🌱 **<font color="#2ecc71">Currently Learning:</font>** **Python for Data Science** (NumPy, Pandas, Scikit-learn) and Machine Learning frameworks.
-* 💬 **<font color="#3498db">Ask Me About:</font>** Data Analysis, Laravel, Java Swing, and Networking (OSPF/VLAN).
-* ⚡ **<font color="#9b59b6">Fun Fact:</font>** I’ve coordinated campus events for over 300+ students!
-
----
-
-### 📊 GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=emeral23&show_icons=true&theme=tokyonight" alt="emeral23" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emeral23&layout=compact&theme=tokyonight" alt="emeral23" />
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
