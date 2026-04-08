@@ -18,4 +18,31 @@ About Me<br>I am a determined Informatics Engineering student, currently focusin
 ---
 [![](https://visitcount.itsvg.in/api?id=emeral23&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXByeHh4ZzR4ZWZ4eHh4ZzR4ZWZ4eHh4ZzR4ZWZ4eHh4ZzR4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVtoGMMfxvgtfG/giphy.gif" width="30px"> About Me
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=emeral23&label=Profile%20views&color=0e75b6&style=flat" alt="emeral23" />
+</p>
+
+### <font color="#2ecc71">I am a determined Informatics Engineering student</font> 
+Currently focusing my professional and skill development journey on **Data Analytics** and **Machine Learning**. While I have a strong foundation in full-stack development, my true passion lies in extracting insights and building predictive models from complex datasets.
+
+---
+
+### 🛠 Technical Background & Focus:
+
+* 🏆 **<font color="#f1c40f">Working On:</font>** Advanced data processing projects. Recently developed an interactive dashboard using **Microsoft Excel** (Pivot Tables & Slicers).
+* 🤝 **<font color="#e67e22">Looking to Collaborate On:</font>** Open-source projects in **Data Management** and exploratory data analysis (EDA).
+* 🌱 **<font color="#2ecc71">Currently Learning:</font>** **Python for Data Science** (NumPy, Pandas, Scikit-learn) and Machine Learning frameworks.
+* 💬 **<font color="#3498db">Ask Me About:</font>** Data Analysis, Laravel, Java Swing, and Networking (OSPF/VLAN).
+* ⚡ **<font color="#9b59b6">Fun Fact:</font>** I’ve coordinated campus events for over 300+ students!
+
+---
+
+### 📊 GitHub Stats:
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=emeral23&show_icons=true&theme=tokyonight" alt="emeral23" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emeral23&layout=compact&theme=tokyonight" alt="emeral23" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
